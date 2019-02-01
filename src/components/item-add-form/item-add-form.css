@@ -1,4 +1,11 @@
 .item-add-form {
     margin-top: 10px;
-    margin-left: 150px;
+}
+
+.item-add-form input {
+    margin-right: 3px;
+    flex-basis: 300px;
+    flex-grow: 1;
+    
+   
 }
